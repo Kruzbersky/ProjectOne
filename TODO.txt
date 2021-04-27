@@ -1,0 +1,20 @@
+Postup prací pro vytvoření robot
+
+1) Vytvoření robota
+    -první krok je samozřejmě robota vytvořit
+    -hardware i software, z nichž budou napřed některé prototypy
+
+2) Sponzoři
+    -při nejlepším najít nějakého sponzora nebo firmu co hodlá velkovýrobu financovat
+    -nebo vytvořit startup a například vybrat nějaké peníze od lidí
+
+3) Marketing
+    -udělat nějakou reklamu která o našem projektu obeznámí širokou veřejnost
+    -záleží též na penězích (sponzorech), v jakých státech začít atd.
+
+4) Výroba
+    -vytvořit dostatečné množství, podle poptávky (možnost udělat předobjednání)
+    -nešidit na kvalitě
+
+5) Prodej
+    -tadá
